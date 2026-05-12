@@ -47,15 +47,6 @@ Aplicativo mobile (TCC) desenvolvido em Kotlin para conectar doadores de sangue 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReyelZeras&show_icons=true&theme=dracula" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyelZeras&layout=compact&theme=dracula" height="150" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 ### 📫 Como me encontrar
 
 <div align="center">
