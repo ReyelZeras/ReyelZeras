@@ -49,19 +49,16 @@ Aplicativo mobile (TCC) desenvolvido em Kotlin para conectar doadores de sangue 
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReyelZeras&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyelZeras&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReyelZeras&show_icons=true&theme=dracula" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyelZeras&layout=compact&theme=dracula" height="150" alt="Linguagens mais usadas"/>
+</p>
 
 ---
 
 ### 📫 Como me encontrar
 
 <div align="center">
-  <a href="mailto:rey2504@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email do Reyel" />
-  </a>
   <a href="https://www.linkedin.com/in/reyel-soares/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Reyel" />
   </a>
